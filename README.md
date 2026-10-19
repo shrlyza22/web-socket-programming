@@ -181,7 +181,7 @@ Hasil pengujian disimpan otomatis ke `hasil_qos.csv`.
 |-----------------------|------------|---------------------|
 | Jonatannael Panjaitan           | `103032430036`    | Webserver       |
 | Ririn Nur Aini     | `103032400054`    | Proxyserver       |
-| [Nama Anggota 3]      | `103032400036`    | Client       |
+| Sheren Aulia Azahra      | `103032400036`    | Client       |
 
 ---
 
